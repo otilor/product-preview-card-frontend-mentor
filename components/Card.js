@@ -33,13 +33,13 @@ export default function Card() {
             </p>
             <button
               type="button"
-              className="inline-flex items-center px-6 py-3 border border-transparent shadow-sm text-base font-medium rounded-md text-white dark-cyan"
+              className="inline-flex font-bold items-center px-6 py-3 border border-transparent shadow-sm text-base font-medium rounded-md text-white dark-cyan"
             >
               <ShoppingCartIcon
                 className="-ml-1 mr-3 h-5 w-5"
                 aria-hidden="true"
               />
-              Button text
+              Add to Cart
             </button>
           </div>
         </div>
