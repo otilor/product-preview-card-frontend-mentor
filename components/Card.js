@@ -21,7 +21,7 @@ export default function Card() {
               A floral, solar and voluptuous interpretation composed by Olivier Polge, Perfumer-Creator for the House of CHANEL.
             </p>
             <p class="text-xl font-black text-gray-800">
-              $110
+              $149.99
               <span class="font-normal text-gray-600 text-base">/night</span>
             </p>
           </div>
