@@ -22,7 +22,7 @@ export default function Card() {
             </p>
             <p class="text-xl font-black text-gray-800">
               $149.99
-              <span class="font-normal text-gray-600 text-base">/night</span>
+              <span class="font-normal text-gray-600 ml-3 text-base line-through">$169.99</span>
             </p>
           </div>
         </div>
