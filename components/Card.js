@@ -24,7 +24,13 @@ export default function Card() {
               $149.99
               <span class="font-normal text-gray-600 ml-3 text-base line-through">$169.99</span>
             </p>
-            <button className="px-5 py-2 dark-cyan text-white rounded-lg">Add to Cart</button>
+            <button
+        type="button"
+        className="inline-flex items-center px-6 py-3 border border-transparent shadow-sm text-base font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
+      >
+        {/* <MailIcon className="-ml-1 mr-3 h-5 w-5" aria-hidden="true" /> */}
+        Button text
+      </button>
           </div>
         </div>
       </div>
