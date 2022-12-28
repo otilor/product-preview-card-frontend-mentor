@@ -33,7 +33,7 @@ export default function Card() {
             </p>
             <button
               type="button"
-              className="inline-flex items-center px-6 py-3 border border-transparent shadow-sm text-base font-medium rounded-md text-white dark-cyan hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
+              className="inline-flex items-center px-6 py-3 border border-transparent shadow-sm text-base font-medium rounded-md text-white dark-cyan focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
             >
               <ShoppingCartIcon
                 className="-ml-1 mr-3 h-5 w-5"
