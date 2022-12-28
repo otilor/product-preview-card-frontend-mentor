@@ -1,4 +1,4 @@
-import { ShoppingCartIcon } from '@heroicons/react/24/solid'
+import { ShoppingCartIcon } from '@heroicons/react/24/outline'
 
 export default function Card() {
   return (
