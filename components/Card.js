@@ -1,4 +1,4 @@
-import { ShoppingCartIcon } from '@heroicons/react/24/outline'
+import { ShoppingCartIcon } from "@heroicons/react/24/outline";
 
 export default function Card() {
   return (
@@ -35,7 +35,10 @@ export default function Card() {
               type="button"
               className="inline-flex items-center px-6 py-3 border border-transparent shadow-sm text-base font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
             >
-              <ShoppingCartIcon className="-ml-1 mr-3 h-5 w-5" aria-hidden="true" />
+              <ShoppingCartIcon
+                className="-ml-1 mr-3 h-5 w-5"
+                aria-hidden="true"
+              />
               Button text
             </button>
           </div>
