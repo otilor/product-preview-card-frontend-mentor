@@ -15,12 +15,10 @@ export default function Card() {
               <p class="text-gray-500 font-medium hidden md:block uppercase">Perfume</p>
             </div>
             <h3 class="font-black text-gray-800 md:text-3xl text-xl">
-              The Majestic and Wonderful Bahamas
+            Gabrielle Essence Eau De Parfum
             </h3>
             <p class="md:text-lg text-gray-500 text-base">
-              The best kept secret of The Bahamas is the country’s sheer size
-              and diversity. With 16 major islands, The Bahamas is an unmatched
-              destination
+              A floral, solar and voluptuous interpretation composed by Olivier Polge, Perfumer-Creator for the House of CHANEL.
             </p>
             <p class="text-xl font-black text-gray-800">
               $110
