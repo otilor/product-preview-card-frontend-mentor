@@ -24,6 +24,7 @@ export default function Card() {
               $149.99
               <span class="font-normal text-gray-600 ml-3 text-base line-through">$169.99</span>
             </p>
+            <button className="px-5 py-2 dark-cyan rounded-lg">Add to Cart</button>
           </div>
         </div>
       </div>

@@ -5,3 +5,7 @@
 body {
   background-color: hsl(30, 38%, 92%)
 }
+
+.dark-cyan {
+  background-color: hsl(158, 36%, 37%);
+}
